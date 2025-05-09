@@ -1,7 +1,7 @@
 
 
-Este é um jogo da velha simples implementado em Python e em C.
-O codigo em python é ara um jogador no terminal.
+# Este é um jogo da velha simples implementado em Python e em C.
+## O codigo em python é ara um jogador no terminal.
 
 
 1. Instale o Python 3.x
@@ -11,7 +11,7 @@ O codigo em python é ara um jogador no terminal.
 python jogo_da_velha.py
 ```
 
- Jogo da Velha em C
+## Jogo da Velha em C
 
 Para compilar e executar no terminal (Linux, WSL ou Git Bash):
 
@@ -23,3 +23,6 @@ Em windons:
 ```bash
 gcc jogo_da_velha.c -o jogo.exe
 jogo.exe
+```
+
+Se vc já tiver um compilador, é so abrir o arquivo com ele.
