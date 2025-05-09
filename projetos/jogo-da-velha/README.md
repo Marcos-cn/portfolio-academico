@@ -1,6 +1,6 @@
 
 
-# Este é um jogo da velha simples implementado em Python e em C.
+# Este é um jogo da velha implementado em Python e em C.
 ## O codigo em python é para apenas um jogador no terminal.
 
 
