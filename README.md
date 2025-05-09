@@ -1,12 +1,7 @@
-# Jogo da Velha (Python)
+# Portfólio Acadêmico
+Bem-vindo ao meu repositório de projetos acadêmicos e pessoais!
 
-Este é um jogo da velha simples implementado em Python, para dois jogadores no terminal.
+Esse repositorio foi criado para o armazenamento, controle e organização de trabalhos e projetos!
 
-## Como jogar
-
-1. Instale o Python 3.x
-2. Execute o script com:
-
-```bash
-python jogo_da_velha.py
+🐢
 
