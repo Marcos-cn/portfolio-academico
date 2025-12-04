@@ -1,0 +1,24 @@
+create database st_ct_pj;
+
+use st_ct_pj;
+
+create table Responsavel(
+id_responsavel int  AUTO_INCREMENT not null primary key,
+nome char (30),
+cargo char (30)
+);
+
+create table Projeto(
+id_projeto int AUTO_INCREMENT not null primary key,
+nome char(30),
+descricao TEXT,
+status CHAR(30)
+);
+
+
+create table Tarefa(
+id_tarefa int  AUTO_INCREMENT not null primary key,
+titulo VARCHAR(80),
+descricao TEXT,
+prioridade VARCHAR(20)
+);
