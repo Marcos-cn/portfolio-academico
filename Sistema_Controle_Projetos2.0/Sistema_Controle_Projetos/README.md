@@ -12,5 +12,3 @@
 8. Vá para scr/main/main, abra com.sistema, e execute o arquivo Main no Eclipse
 9. Abra o Swagger no navegador
 10. Pronto 😄
-
-
