@@ -4,7 +4,7 @@
 
 1. Instale o MySql e baixe o arquivo Scipt MySql
 2. Crie sua conta e senha no MySql
-3. Copie e cole o que esta dentro do txt para o MySql e execute cada linha do script.
+3. Copie e cole o que esta dentro do Scipt MySql para o MySql e execute cada linha do script.
 4. Após isso, o banco de dados será criado. Deixe o MySql aberto no computador com o Banco de dados rodando daqui em diante.
 5. Instale e abra o Eclipse
 6. Abra o Eclipse, vá em arquivos e importe o arquivo Sistema__controle_projetos
